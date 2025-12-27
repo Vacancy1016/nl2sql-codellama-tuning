@@ -1,0 +1,13 @@
+*.bin
+*.pt
+*.safetensors
+*.pth
+*.model
+*.sqlite
+*.sqlite3
+*.db
+*.sql
+**/output/
+**/data/spider/database/
+__pycache__/
+.ipynb_checkpoints/
